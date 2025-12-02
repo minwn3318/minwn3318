@@ -6,14 +6,8 @@
 
 # 핵심 강점
 ### 1. 꾸준한 기록
-성장에서 중요한 것은 무엇보다 **과거 기록**입니다.    
-자신의 일을 **증명**하고 **검토**하며 **앞으로 가야할 방향을 정립**하기 때문입니다.   
 오늘 배웠던 것 하였던 것을 **GitBlogging** 레퍼지토리에 기록하는 습관을 가져,   
 꾸준히 기록을 쌓아왔습니다
-
-# 기술역량
-- **Langauge** : Java, Python, C++, Javascripts
-- **Framework&Tools** : Git, SpringBoots, Node.js, Docker, Mysql
 
 # 프로젝트 경험
 ### 1. WebSnackPingPongGame Server
@@ -26,9 +20,7 @@
 ### 3. BIC Connecter 3기 활동 경력 (2023.05.01~2023.09.21)
 
 ## 관심분야
-- 클라우드 컴퓨팅
-- Web3
-- AI agent
+- 클라우드 컴퓨팅, AI agent, Web3
 
 <!--
 1. 자기소개- 프로필
