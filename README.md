@@ -60,29 +60,66 @@
 <br>    
 
 ## 기술스택
-기술스택   
+### **언어 :**    
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
+
+### **라이브러리및프레임워크 :**   
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)   
+
+### **클라우드 컴퓨팅 및 CI/CD:**   
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)      
+
+### **데이터베이스 :**   
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)   
+
+### **협업 기술:**   
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)   
+
+### **AI :**   
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)   
 <br>
 
 ## 핵심역량
-웹 풀스택 및 클라우드 서비스 배포   
-<br>
-
-## 관심 연구분야 :  
-클라우드, 인증보안 , AI 자동화    
+### 하드스킬
+#### 1. Restful API 컨트롤러 설계  
+- 사용자 요청에 따라 라우트를 나누고, CRUD규칙에 알맞게 JSON 형태로 응답하는 Restful API 서버를 만들 수 있습니다.
+  
+#### 2. 서버 배포   
+- 도커 이미지와 yaml파일를 ssh와 scp 프로토콜을 이용해 파일전송하고 서버를 배포할 수 있습니다.
+- ec2 인스턴스를 생성하고 클라우드 쉘을 통해 서버를 배포할 수 있습니다.    
+     
+#### 3. 에러핸들링과 보안  
+- jsession, JWT, Spirng Security와 같은 보안 라이브러리로 웹 환경에 알맞는 보안환경을 구축할 수 있습니다
+     
+#### 4. Git 협업 
+- 팀 프로젝트에서 브랜치를 나누고 역할을 나누어 git으로 버전을 관리 할 수 있습니다 업무시간 외라도 밤을 새서 고치며, 개발 시 다른 - Lang Graph 프레임워크를 사용하여 Ai agent에 필요한 노드 그래프 구축할 수 있습니다.    리적으로 명확하게 설명 할 수 있습니다
+  
+### 소프트스킬   
+#### 1. 논리적 사고   
+- 문제원인을 팀원에게 명확하게 논리적으로 설명 가능합니다
+   
+#### 2. 디버깅과 문제 해결력   
+- 메세지와 구도를 보고 기능적 접근을 하여 단계기능별로 테스팅 후, 구글링과 지피티, 제미나이 질문을 통해 문제를 찾아냅니다.
+     
+#### 3. 협업과 소통 능력   
+- 같은 서비스를 담당하게 되었을 때 협의할 내역이 있으면 온라인 상황에서 질문을 하여 서로 같이 할 내용을 의논하여 문제를 해결해갑니다.
+     
+#### 4. 책임감과 운영 마인드 
+- 자신이 맡은 분야에 생긴 문제라면 업무시간 외라도 밤을 새서 고치며, 개발 시 다른 사람이 맡은 구현과 겹치지 않도록 고려합니다.        화    
 <br>   
 
-## 취미 및 특기   
+### 취미 및 특기   
 취미, 특기   
 <br>   
 
-## 대외활동 및 개인경험
+### 대외활동 및 개인경험
 #### 1. 동의대학교, 블록체인 연구소 활동 (2023.09.01 ~2024.10.10)
 
 #### 2. AWS, AWS TechCamp 온라인 강의 (2025.06.24)
 
-#### 3. K Aivle School (2025.09.23)  
+#### 3. K Aivle School (2025.09.23 ~ 2026.03.06)  
 
-#### 4. 개인 기술 블로그 (2025.10.24)   
+#### 4. 개인 기술 블로그 (2025.10.24~)   
 <br>   
 
 <!--
