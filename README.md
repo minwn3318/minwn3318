@@ -1,55 +1,31 @@
 
 # 🚀 협력! 정의! 성장! 삼위일체 개발자!!!
 
-🤝 **협력**  
-주제를 위한 의견 조율을 하고  
-
-🔍 **정의**  
-문제의 원인을 끝까지 파고들며  
-
-📈 **성장**  
-습득한 지식을 체득으로 연결합니다.  
-<br>
-
-이 세 가지 **핵심 키워드**를 품고,  
-💡 **신뢰성 있는 서비스 개발**을 향해 움직이는  
-<br>    
-   
-💻 **백엔드 개발자 정민주**입니다! 반갑습니다! 🙌  
+### 🤝 의견 조율을 하고  
+### 🔍 문제의 원인을 끝까지 파고들며  
+### 📈 습득한 지식을 체득으로 연결하는
+### 💻 **백엔드 개발자 정민주**입니다! 반갑습니다! 🙌  
 <br>    
 
----
 
 ## 🛠️ 기술 스택
 
-### 🧑‍💻 **언어**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### 📦 **라이브러리 & 프레임워크**
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### ☁️ **클라우드 컴퓨팅 & CI/CD**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🗄️ **데이터베이스**
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🤝 **협업 도구**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-### 🤖 **AI**
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 
 <br>
 
----
 
 ## 💡 핵심 역량
 
@@ -95,26 +71,15 @@
 
 ---
 
-## 🎯 취미 & 특기
-- 궁금한 점은 스스로 충분히 고민한 뒤 질문하기 🧩
-
-<br>
-
----
-
 ## 🌱 대외활동 & 개인 경험
 
-#### 1️⃣ 동의대학교 블록체인 연구소 활동  
-📅 2023.09.01 ~ 2024.10.10
+#### 1️⃣ 동의대학교 블록체인 연구소 활동  📅 2023.09.01 ~ 2024.10.10
 
-#### 2️⃣ AWS / AWS TechCamp 온라인 강의  
-📅 2025.06.24
+#### 2️⃣ AWS / AWS TechCamp 온라인 강의  📅 2025.06.24
 
-#### 3️⃣ K-Aivle School  
-📅 2025.09.23 ~ 2026.03.06
+#### 3️⃣ K-Aivle School  📅 2025.09.23 ~ 2026.03.06
 
-#### 4️⃣ 개인 기술 블로그 운영  
-📅 2025.10.24 ~
+#### 4️⃣ 개인 기술 블로그 운영  📅 2025.10.24 ~
 
 <br>
 
