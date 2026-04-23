@@ -3,19 +3,20 @@
 
 ### 🤝 의견 조율을 하고  
 ### 🔍 문제의 원인을 끝까지 파고들며  
-### 📈 습득한 지식을 체득으로 연결하는
-### 💻 **백엔드 개발자 정민주**입니다! 반갑습니다! 🙌  
+### 📈 습득한 지식으로 연결하는
+### 💻 **AI 풀스택 개발자 정민주**입니다! 반갑습니다! 🙌  
 <br>    
 
 
 ## 🛠️ 기술 스택
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)   
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)   
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)   
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)   
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)   
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)   
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)   
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
@@ -25,22 +26,23 @@
 
 ### ⚙️ 하드 스킬
 
-#### 1️⃣ RESTful API 컨트롤러 설계
-- 사용자 요청에 따라 라우트를 분리하고  
-- CRUD 규칙에 맞는 JSON 응답 구조의 API 서버를 설계합니다.
-
-#### 2️⃣ 서버 배포
-- Docker 이미지와 YAML 파일을 활용해 SSH / SCP 기반 서버 배포 가능  
-- EC2 인스턴스 생성 및 AWS 환경에서 서비스 배포 경험 보유
-
+#### 1️⃣ AI Agent 기반 서비스 설계
+- 사용자 요청 흐름에 따라 AI Agent 워크플로우를 설계하고, 멀티스텝 작업 자동화 구현
+- LangGraph 기반 노드 그래프 설계 및 상태 관리 경험
+- FAST API로 에이전트를 서빙하고 WebClient를 활용한 서버 사이드 로직 개발        
+  
+#### 2️⃣ Full-Stack API & 프론트엔드 연동
+- Spring boot로 CRUD 기반 RESTful 서버 구조 구현
+- React.js로 화면 구상 및 데이터 흐름을 고려한 API 응답 구조 설계
+- 사용자 중심 화면 설계부터 DB 연동, docker기반 배포까지 End-to-End 개발 가능
+  
 #### 3️⃣ 에러 핸들링 & 보안
 - JSession, JWT, Spring Security를 활용한 인증·인가 처리  
-- 웹 환경에 적합한 보안 구조 설계 경험
-
+- 예외 처리, 로깅, 권한 분리 등 안정적인 웹 서비스 운영 구조 설계
+  
 #### 4️⃣ Git 협업
 - 브랜치 전략 기반 팀 협업 경험  
-- 역할 분담 후 버전 관리 및 충돌 해결  
-- LangGraph 프레임워크를 활용한 AI Agent 노드 그래프 구성 경험
+- 역할 분담 후 버전 관리 및 충돌 해결
 
 ---
 
@@ -65,11 +67,14 @@
 
 ## 🌱 대외활동 & 개인 경험
 
-#### 1️⃣ 동의대학교 블록체인 연구소 활동  📅 2023.09.01 ~ 2024.10.10
+#### 1️⃣ 동의대학교 블록체인 연구소 활동 📅 2023.08.31 ~ 2024.10.10
 
-#### 2️⃣ AWS / AWS TechCamp 온라인 강의  📅 2025.06.24
+#### 2️⃣ Amazon Web Services / AWS TechCamp 온라인 강의 📅 2025.06.24
 
-#### 3️⃣ K개인 기술 블로그 운영  📅 2025.10.24 ~
+#### 3️⃣ KT AIVLE School 8기 수료 과정 📅 2025.09.23 ~ 2026.03.06
+
+#### 4️⃣ 개인 기술 블로그 운영 📅 2025.10.24 ~
+
 
 <br>
 
